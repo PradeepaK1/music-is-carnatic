@@ -1,4 +1,5 @@
 import IPython.display as ipd
+import sounddevice as sd
 import streamlit as st
 from pydub import AudioSegment 
 import speech_recognition as sr 
